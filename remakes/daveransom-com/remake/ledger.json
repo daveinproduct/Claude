@@ -1,0 +1,2158 @@
+[
+  {
+    "url": "http://static1.squarespace.com/static/63b2602562a8463bef5b2a98/t/68cc42698328676059d6e20f/1758216809929/IMG_0093.jpeg?format=1500w",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/en.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/core-components.en-US.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/rte-components.en-US.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/node_modules/.pnpm/nanoid@5.0.1/node_modules/nanoid/url-alphabet/index.js",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/node_modules/.pnpm/nanoid@5.0.1/node_modules/nanoid/index.browser.js",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/$%7Bxe%7D.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/$%7Bd%7D.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/comments/icon_like_12_light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/comments/icon_flag_12_light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/comments/icon_check_12_light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/comments/icon_delete_12_light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/comments/icon_reply_12_light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/clear-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/clear-dark@2x.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/dialog/login-external-facebook.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/dialog/login-external-twitter.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/dialog/login-external-google.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/configuration/manager-ss.png?20170201",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/logo/loading-logo-light.png?20170201",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/logo/loading-logo-light@2x.png?20170201",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/add-dark-287529174b445bc7.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/add-dark@2x-06a1f4cc739c25fd.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/avatar-dark@2x-5abc7b4561dfd545.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/video-64-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/$%7BEt%7D.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/rosetta-react.en-US.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/$%7Bo%7D.json",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/dialog/image-field-icon.png?2",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-facebook-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-twitter-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-foursquare-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-google-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-tumblr-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-email-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-blogger-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-linkedin-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-reddit-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-stumbleupon-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-soundcloud-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-spotify-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-itunes-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-googleplay-16-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-plus-8-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-plus-16-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-minus-8-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-minus-16-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/chevron-left-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/chevron-right-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/add-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/add-dark@2x.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-32-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/standard/icon_social_button_10_light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/map.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/email.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/call.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/hours.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-external-link-18-dark.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-external-link-18-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/map-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/email-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/call-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/hours-light.png",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-16-light.png?20170201",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-16-dark.png?20170201",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-32-light.png?20170201",
+    "status": "missing"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-32-dark.png?20170201",
+    "status": "missing"
+  },
+  {
+    "url": "https://www.daveransom.com/",
+    "local": "//index.html",
+    "kind": "pages",
+    "contentType": "text/html",
+    "size": 275904,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js",
+    "local": "/_ext/assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 32889,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/website.components.imageFluid.styles.css",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/website.components.imageFluid.styles.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 2578,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/ebf936cf-5d2c-459f-993e-16674cf51a31_810/website.components.socialLinks.styles.css",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/ebf936cf-5d2c-459f-993e-16674cf51a31_810/website.components.socialLinks.styles.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 12029,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/51d8314f-876b-45d6-814c-f94b50fa99ea_1032/website.components.html.styles.css",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/51d8314f-876b-45d6-814c-f94b50fa99ea_1032/website.components.html.styles.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 105,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/ace7f845-9793-48ff-acb8-085afdce1f75_1202/website.components.button.styles.css",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/ace7f845-9793-48ff-acb8-085afdce1f75_1202/website.components.button.styles.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 1087,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-70c095566385eee0-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-70c095566385eee0-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 4044,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-838364693a506bdf-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/user-account-core-838364693a506bdf-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 2221,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/3be7f74b-4aa5-40b9-93f7-a65ba233c844_195/website.components.newsletter.styles.css",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/3be7f74b-4aa5-40b9-93f7-a65ba233c844_195/website.components.newsletter.styles.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 11572,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-7cb74f0a2a4a5c9c-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/commerce-7cb74f0a2a4a5c9c-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 9788,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/214b6254-835b-4ba9-9107-68d79953190e_688/website.components.audio.styles.css",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/214b6254-835b-4ba9-9107-68d79953190e_688/website.components.audio.styles.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 15817,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1793303477445-MV4SEJ2ESJHA5E89L1J2/static.css",
+    "local": "/_ext/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1793303477445-MV4SEJ2ESJHA5E89L1J2/static.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 489449,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg?format=1500w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__b2858b7f.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 153734,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/versioned-site-css/63b2602562a8463bef5b2a98/58/5c5a519771c10ba3470d8101/63b2602562a8463bef5b2ab1/1847/site.css?nocustom=true",
+    "local": "/_ext/static1.squarespace.com/static/versioned-site-css/63b2602562a8463bef5b2a98/58/5c5a519771c10ba3470d8101/63b2602562a8463bef5b2ab1/1847/site__ee63a089.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 1291492,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/5c1fc644-dca7-4640-b039-645b5c5241b4/website_icon.png?format=1500w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/5c1fc644-dca7-4640-b039-645b5c5241b4/website_icon__b2858b7f.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 164072,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-396f9c2f2a61a2b8-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-396f9c2f2a61a2b8-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 51590,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5b1fd9aed201e910-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5b1fd9aed201e910-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 797007,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-refracted-circles.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-refracted-circles.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 2672,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-88f72d5f001c770b-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-88f72d5f001c770b-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 102180,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/website.components.imageFluid.shared.constants.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/website.components.imageFluid.shared.constants.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 945,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-refracted-lines.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-refracted-lines.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 11778,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/ebf936cf-5d2c-459f-993e-16674cf51a31_810/website.components.socialLinks.visitor.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/ebf936cf-5d2c-459f-993e-16674cf51a31_810/website.components.socialLinks.visitor.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 12228,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/website.components.imageFluid.visitor.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/website.components.imageFluid.visitor.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 27059,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-parallax.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-parallax.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 5830,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/18018.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/18018.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 12975,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-film-grain.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-film-grain.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 8095,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/39882.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/39882.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 10236,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/51d8314f-876b-45d6-814c-f94b50fa99ea_1032/website.components.html.visitor.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/51d8314f-876b-45d6-814c-f94b50fa99ea_1032/website.components.html.visitor.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 11026,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/59c3b6bc-e76a-4f94-9694-cc069be11197/latin.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/59c3b6bc-e76a-4f94-9694-cc069be11197/latin.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 9184,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-liquid.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/image-effect-liquid.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 8569,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/52a252e3-2603-4562-b0f2-c5a17be2c497/latin.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/52a252e3-2603-4562-b0f2-c5a17be2c497/latin.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 32188,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/ace7f845-9793-48ff-acb8-085afdce1f75_1202/website.components.button.visitor.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/ace7f845-9793-48ff-acb8-085afdce1f75_1202/website.components.button.visitor.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 11107,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-2e71e68f6532e2b6-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-2e71e68f6532e2b6-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 245487,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/64023.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/64023.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 34062,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/39188.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/39188.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 20695,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/92452.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a71d1547-eeef-4488-a7f5-c061d888c9d8_1019/92452.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 38848,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png?format=1500w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__b2858b7f.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 142356,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-dbb692ae7f559df6-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/user-account-core-dbb692ae7f559df6-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 79929,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-cfea71c9cd31f88e-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/performance-cfea71c9cd31f88e-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 123256,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/214b6254-835b-4ba9-9107-68d79953190e_688/website.components.audio.visitor.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/214b6254-835b-4ba9-9107-68d79953190e_688/website.components.audio.visitor.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 53751,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-971e4598d508fad2-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/common-vendors-971e4598d508fad2-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 769617,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/52838289-82ec-4834-b8c9-93fa6f5b55c9/arabic.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/52838289-82ec-4834-b8c9-93fa6f5b55c9/arabic.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 18056,
+    "source": "live"
+  },
+  {
+    "url": "https://www.daveransom.com/universal/svg/social-accounts.svg",
+    "local": "/universal/svg/social-accounts.svg",
+    "kind": "images",
+    "contentType": "image/svg+xml",
+    "size": 119426,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.dd2e7c413d1ccd0b88463e1d3ea04e6c.js",
+    "local": "/_ext/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.dd2e7c413d1ccd0b88463e1d3ea04e6c.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 128223,
+    "source": "live"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/3be7f74b-4aa5-40b9-93f7-a65ba233c844_195/website.components.newsletter.visitor.js",
+    "local": "/_ext/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/3be7f74b-4aa5-40b9-93f7-a65ba233c844_195/website.components.newsletter.visitor.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 149501,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/commerce-693af75c86a473a5-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/commerce-693af75c86a473a5-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 711170,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/common-203d4ebeb94f7c05-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/common-203d4ebeb94f7c05-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 982532,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/1480.af6a9c8a7e81be005694.js",
+    "local": "/_ext/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/1480.af6a9c8a7e81be005694.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 12877,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/user-items-list-carousel.dfc5de9336f21ee3dfed.js",
+    "local": "/_ext/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/user-items-list-carousel.dfc5de9336f21ee3dfed.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 13860,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/34022-1139d94dcfcd544e-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/34022-1139d94dcfcd544e-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 20782,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/audio-player-19d1a6e5d6f617a6-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/audio-player-19d1a6e5d6f617a6-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 165958,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/63048-b3116cf8f8726573-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/63048-b3116cf8f8726573-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 7598,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/audio-player-2ed9b5e81e0206fd-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/audio-player-2ed9b5e81e0206fd-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 8859,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/d92bd0f161fc0505-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/d92bd0f161fc0505-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 5408,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise.js?onload=__grecaptchaOnLoadCallback&render=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv",
+    "local": "/_ext/www.google.com/recaptcha/enterprise__d3aa77f3.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 1798,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.7a42160a86f0c10b740c.js",
+    "local": "/_ext/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/floating-cart.7a42160a86f0c10b740c.js",
+    "kind": "scripts",
+    "contentType": "application/javascript",
+    "size": 570,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/async-reserved-cart-bootstrap-806ee3a2c484f98f-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/async-reserved-cart-bootstrap-806ee3a2c484f98f-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 5141,
+    "source": "live"
+  },
+  {
+    "url": "https://www.daveransom.com/api/census/render-batch",
+    "local": "/_remake/net/20443d0480c5.json",
+    "kind": "api",
+    "contentType": "application/json",
+    "size": 17,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/87697-4de74e0092a5553d-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/87697-4de74e0092a5553d-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 12868,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/49997-8deab14e953d9519-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/49997-8deab14e953d9519-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 21551,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/5b8f4cabb3fb1481-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/5b8f4cabb3fb1481-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 25071,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/2249-732ad533bd6b24b5-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/2249-732ad533bd6b24b5-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 15284,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-150f6036a918e186-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/async-commerce-cart-utils-150f6036a918e186-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 15724,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/7070-0d1c9fc6189272b8-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/7070-0d1c9fc6189272b8-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 81987,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+    "local": "/_ext/www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 859264,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv&co=aHR0cHM6Ly93d3cuZGF2ZXJhbnNvbS5jb206NDQz&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=fqlfc43cpsb9",
+    "local": "/_ext/www.google.com/recaptcha/enterprise/anchor/index__64f65a38.html",
+    "kind": "other",
+    "contentType": "text/html",
+    "size": 55232,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+    "local": "/_ext/www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 75390,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/logo_48.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 2228,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=bSuJ2xBC8cHT21-c68JXN31m",
+    "local": "/_ext/www.google.com/recaptcha/enterprise/webworker__c3b4e52d.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 100,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 40128,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img.jpeg?format=300w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img__fe4f8812.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 8118,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/27d6ac03-e700-4ed3-b62f-e3e50367302e/ACphoto-Tricia2563.webp?format=300w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/27d6ac03-e700-4ed3-b62f-e3e50367302e/ACphoto-Tricia2563__fe4f8812.webp",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 21940,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg?format=1000w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__84006cb2.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 89528,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png?format=500w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__39e93a50.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 38666,
+    "source": "live"
+  },
+  {
+    "url": "https://www.daveransom.com/api/census/render-batch",
+    "local": "/_remake/net/bf96cbe50bb3.json",
+    "kind": "api",
+    "contentType": "application/json",
+    "size": 17,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv&co=aHR0cHM6Ly93d3cuZGF2ZXJhbnNvbS5jb206NDQz&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=fqlfc43cpzkk",
+    "local": "/_ext/www.google.com/recaptcha/enterprise/anchor/index__392996dc.html",
+    "kind": "other",
+    "contentType": "text/html",
+    "size": 55202,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 34668,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img.jpeg?format=100w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img__60997e04.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 1522,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/706327b5-315d-467f-acc6-90857e2da232/favicon.ico?format=100w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/706327b5-315d-467f-acc6-90857e2da232/favicon__60997e04.ico",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 15510,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 307600,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img.jpeg",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 20700,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/27d6ac03-e700-4ed3-b62f-e3e50367302e/ACphoto-Tricia2563.webp",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/27d6ac03-e700-4ed3-b62f-e3e50367302e/ACphoto-Tricia2563.webp",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 60818,
+    "source": "live"
+  },
+  {
+    "url": "https://www.daveransom.com/universal/svg/social-accounts.svg",
+    "local": "/universal/svg/social-accounts.svg",
+    "kind": "images",
+    "contentType": "image/svg+xml",
+    "size": 119426,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 142356,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg?format=100w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__60997e04.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 4514,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg?format=300w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__fe4f8812.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 16476,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg?format=500w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__39e93a50.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 33638,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg?format=750w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__29f6bc85.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 58416,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg?format=2500w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__9775f5c2.jpeg",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 307600,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png?format=100w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__60997e04.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 2950,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png?format=300w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__fe4f8812.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 15670,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png?format=750w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__29f6bc85.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 84870,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png?format=1000w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__84006cb2.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 149840,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png?format=2500w",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__9775f5c2.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 142356,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/15b5c853-9b64-4099-a53b-6183bd715077/latin-ext.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/15b5c853-9b64-4099-a53b-6183bd715077/latin-ext.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 33032,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/ab44c71b-f48b-4670-a167-846043cf99a4/latin.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/ab44c71b-f48b-4670-a167-846043cf99a4/latin.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 32188,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/45dcdc87-5147-43d7-8726-d20c3ba83d37/latin.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/45dcdc87-5147-43d7-8726-d20c3ba83d37/latin.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 9316,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/f7ee3ef0-5282-4e23-aa21-f872b18400e4/arabic.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/f7ee3ef0-5282-4e23-aa21-f872b18400e4/arabic.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 18776,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/142e50f7-0842-4d8c-af4b-8b4f0627b7ae/latin-ext.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/142e50f7-0842-4d8c-af4b-8b4f0627b7ae/latin-ext.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 33032,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/ba548163-dc30-4e5c-b6d2-d50e9bb6674a/latin.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/ba548163-dc30-4e5c-b6d2-d50e9bb6674a/latin.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 20380,
+    "source": "live"
+  },
+  {
+    "url": "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/17590a8f-ffc5-4716-85bd-5f1a6e881a4f/latin-ext.woff2",
+    "local": "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/17590a8f-ffc5-4716-85bd-5f1a6e881a4f/latin-ext.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 20660,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/announcement-bar-89ac383b71064f00-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/announcement-bar-89ac383b71064f00-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 119525,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/blog-collection-list-ab0584c5115e2866-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/blog-collection-list-ab0584c5115e2866-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 0,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0686a61875811dc6-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0686a61875811dc6-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 2090,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-e9e61fa1880a1136-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-e9e61fa1880a1136-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 18046,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-382176b0a5a3ceed-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-382176b0a5a3ceed-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 88012,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/chartjs-helpers-8bb27000fe33f98f-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/chartjs-helpers-8bb27000fe33f98f-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 1809,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-47f0a74cc96984ef-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-47f0a74cc96984ef-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 65295,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/comments-5b15eff87362c9e8-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/comments-5b15eff87362c9e8-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 210550,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/comments-69161efc7498b630-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/comments-69161efc7498b630-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 552990,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/custom-css-popup-d4c5fe94e2b1d2c6-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/custom-css-popup-d4c5fe94e2b1d2c6-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 192036,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/custom-css-popup-d3513f86d5931183-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/custom-css-popup-d3513f86d5931183-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 2020419,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/dialog-d1f309e789e15bcc-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/dialog-d1f309e789e15bcc-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 168408,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/dialog-4ad803688428300c-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/dialog-4ad803688428300c-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 527179,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/events-collection-e9e61fa1880a1136-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/events-collection-e9e61fa1880a1136-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 18046,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/events-collection-edf659eb300081da-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/events-collection-edf659eb300081da-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 87112,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-80c431f721f50b01-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-80c431f721f50b01-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 302012,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/forms-a4992eb689bd3dbc-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/forms-a4992eb689bd3dbc-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 7167,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/forms-dcfb8d66c6b93f35-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/forms-dcfb8d66c6b93f35-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 339372,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/gallery-collection-list-ab0584c5115e2866-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/gallery-collection-list-ab0584c5115e2866-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 0,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-0195af9a4a19c613-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-0195af9a4a19c613-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 8036,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/image-zoom-ab0584c5115e2866-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/image-zoom-ab0584c5115e2866-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 0,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/image-zoom-55f1020a4010e4a0-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/image-zoom-55f1020a4010e4a0-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 4711,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/pinterest-ab0584c5115e2866-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/pinterest-ab0584c5115e2866-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 0,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/pinterest-9258aef506b0667d-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/pinterest-9258aef506b0667d-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 3127,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-f39ec8cdc95ccd84-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/popup-overlay-f39ec8cdc95ccd84-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 8326,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/popup-overlay-c73e6f638b8832b9-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/popup-overlay-c73e6f638b8832b9-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 712248,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/product-quick-view-a4992eb689bd3dbc-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/product-quick-view-a4992eb689bd3dbc-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 7167,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/product-quick-view-2eb9a08fd1d394fe-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/product-quick-view-2eb9a08fd1d394fe-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 664021,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-ab0584c5115e2866-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-ab0584c5115e2866-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 0,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-01f5274ae5ad2e17-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-01f5274ae5ad2e17-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 17055,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-ab0584c5115e2866-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-ab0584c5115e2866-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 0,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-deecec7b68ec92cb-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-deecec7b68ec92cb-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 8569,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/search-page-bf715ef9d437dff2-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/search-page-bf715ef9d437dff2-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 3212,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/search-page-3fa560bcb38c71c4-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/search-page-3fa560bcb38c71c4-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 186754,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/search-preview-15d4a1b16d679a61-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/search-preview-15d4a1b16d679a61-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 1564,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/simple-liking-449c9d79ca5f0725-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/simple-liking-449c9d79ca5f0725-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 1051,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/simple-liking-23c7eea57e6cce55-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/simple-liking-23c7eea57e6cce55-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 4730,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/social-buttons-e675ec109312898c-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/social-buttons-e675ec109312898c-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 2242,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/social-buttons-dff6c9789957095c-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/social-buttons-dff6c9789957095c-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 16010,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/tourdates-ab0584c5115e2866-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/tourdates-ab0584c5115e2866-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 0,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/tourdates-18a58c823a3a2641-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/tourdates-18a58c823a3a2641-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 153620,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/website-overlays-manager-3899990553876185-min.en-US.css",
+    "local": "/_ext/assets.squarespace.com/universal/styles-compressed/website-overlays-manager-3899990553876185-min.en-US.css",
+    "kind": "styles",
+    "contentType": "text/css",
+    "size": 11825,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-9b7075effd8ade88-min.en-US.js",
+    "local": "/_ext/assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-9b7075effd8ade88-min.en-US.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 195606,
+    "source": "live"
+  },
+  {
+    "url": "https://images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/5c1fc644-dca7-4640-b039-645b5c5241b4/website_icon.png",
+    "local": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/5c1fc644-dca7-4640-b039-645b5c5241b4/website_icon.png",
+    "kind": "images",
+    "contentType": "image/webp",
+    "size": 164072,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 176,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/cart-16-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/cart-16-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3010,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/cart-32-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/cart-32-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3216,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-cart-18-dark.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-cart-18-dark.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 479,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/error-dark.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/error-dark.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1262,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1676,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/play-button.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/play-button.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1219,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/play-button@2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 2909,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 2968,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3097,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-info-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3051,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3420,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1042,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 990,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-red.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1057,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1048,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/getty-16-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3072,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/getty-32-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3374,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3010,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3216,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png",
+    "local": "/_ext/static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 561,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png",
+    "local": "/_ext/static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1672,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.eot",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 6788,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font__f182e7ce.eot",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 6788,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+    "kind": "images",
+    "contentType": "image/svg+xml",
+    "size": 23403,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.woff",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 9068,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 6576,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg",
+    "local": "/_ext/static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg",
+    "kind": "images",
+    "contentType": "image/svg+xml",
+    "size": 1495,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.png",
+    "local": "/_ext/static1.squarespace.com/universal/images-v6/icons/opentable-icons.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 2320,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png",
+    "local": "/_ext/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 361,
+    "source": "live"
+  },
+  {
+    "url": "https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png",
+    "local": "/_ext/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3034,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 365,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png",
+    "local": "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 3058,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 32876,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font__d9314511.eot",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 32876,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 32752,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 32676,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg",
+    "kind": "images",
+    "contentType": "image/svg+xml",
+    "size": 64791,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api.js",
+    "local": "/_ext/www.google.com/recaptcha/api.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 974,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise.js?onload=",
+    "local": "/_ext/www.google.com/recaptcha/enterprise__282eaa06.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 1064,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api.js?onload=__grecaptchaOnLoadCallback&render=",
+    "local": "/_ext/www.google.com/recaptcha/api__455463f1.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 1043,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise.js",
+    "local": "/_ext/www.google.com/recaptcha/enterprise.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 1064,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise.js?onload=$",
+    "local": "/_ext/www.google.com/recaptcha/enterprise__6375d386.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 1108,
+    "source": "live"
+  },
+  {
+    "url": "https://www.google.com/images/cleardot.gif",
+    "local": "/_ext/www.google.com/images/cleardot.gif",
+    "kind": "images",
+    "contentType": "image/gif",
+    "size": 43,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 35568,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 22796,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 4340,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 17628,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 40572,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 20408,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 13004,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 26428,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/loading.gif",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/loading.gif",
+    "kind": "images",
+    "contentType": "image/gif",
+    "size": 12618,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/download.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/download.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 148,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/download_white.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/download_white.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 162,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/refresh_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/refresh_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 600,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/refresh_white_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/refresh_white_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 849,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/audio_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 530,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/audio_white_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/audio_white_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 838,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/image_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/image_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 600,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/image_white_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/image_white_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1186,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/liveness_dark.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/liveness_dark.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1112,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/modac_mobile_dark.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/modac_mobile_dark.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 145,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/liveness_light.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/liveness_light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1142,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/modac_mobile_light.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/modac_mobile_light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 231,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/qr_light.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/qr_light.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 558,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/info_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/info_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 665,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/info_white_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/info_white_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 860,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/undo_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/undo_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 581,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/undo_white_2x.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/undo_white_2x.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 563,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/stop_sign.jpg",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/stop_sign.jpg",
+    "kind": "images",
+    "contentType": "image/jpeg",
+    "size": 17838,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/canonical_speed_limit.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/canonical_speed_limit.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 13574,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/canonical_street_name.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/canonical_street_name.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 19663,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/canonical_other.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/canonical_other.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 1116,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/boundingbox2.gif",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/boundingbox2.gif",
+    "kind": "images",
+    "contentType": "image/gif",
+    "size": 328100,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/canonical_car.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/canonical_car.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 11174,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/canonical_road.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/canonical_road.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 7671,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/canonical_bridge.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/canonical_bridge.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 13098,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/modac_qr_background.svg",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/modac_qr_background.svg",
+    "kind": "images",
+    "contentType": "image/svg+xml",
+    "size": 3415,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/modac_camera_dark.png",
+    "local": "/_ext/www.gstatic.com/recaptcha/api2/modac_camera_dark.png",
+    "kind": "images",
+    "contentType": "image/png",
+    "size": 233,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 30424,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 18852,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 1580,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 13952,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 35528,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 16548,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 9276,
+    "source": "live"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+    "local": "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+    "kind": "fonts",
+    "contentType": "font/woff2",
+    "size": 21440,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font__f182e7ce.eot",
+    "kind": "fonts",
+    "contentType": "text/plain",
+    "size": 6788,
+    "source": "live"
+  },
+  {
+    "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+    "local": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+    "kind": "images",
+    "contentType": "image/svg+xml",
+    "size": 23403,
+    "source": "live"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__en.js",
+    "local": "/_ext/www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__en.js",
+    "kind": "scripts",
+    "contentType": "text/javascript",
+    "size": 851367,
+    "source": "live"
+  }
+]

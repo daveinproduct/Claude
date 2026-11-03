@@ -1,0 +1,242 @@
+{
+  "at": "2026-11-03T17:56:34.123Z",
+  "thresholds": {
+    "screen": 98,
+    "motion": 95
+  },
+  "local": "http://127.0.0.1:35333",
+  "pages": {
+    "home": {
+      "path": "/",
+      "desktop": {
+        "screens": [
+          {
+            "i": 0,
+            "y": 0,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-desktop-01.png"
+          },
+          {
+            "i": 1,
+            "y": 900,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-desktop-02.png"
+          },
+          {
+            "i": 2,
+            "y": 1800,
+            "score": 99.93,
+            "noise": 0,
+            "diff": "remake/score/home-desktop-03.png"
+          },
+          {
+            "i": 3,
+            "y": 2700,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-desktop-04.png"
+          },
+          {
+            "i": 4,
+            "y": 3119,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-desktop-05.png"
+          }
+        ],
+        "lowest": 99.93,
+        "average": 99.99,
+        "height": {
+          "original": 4019,
+          "remake": 4019
+        },
+        "errors": [
+          "undefined"
+        ]
+      },
+      "phone": {
+        "screens": [
+          {
+            "i": 0,
+            "y": 0,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-phone-01.png"
+          },
+          {
+            "i": 1,
+            "y": 844,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-phone-02.png"
+          },
+          {
+            "i": 2,
+            "y": 1688,
+            "score": 99.98,
+            "noise": 0,
+            "diff": "remake/score/home-phone-03.png"
+          },
+          {
+            "i": 3,
+            "y": 2532,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-phone-04.png"
+          },
+          {
+            "i": 4,
+            "y": 3376,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-phone-05.png"
+          },
+          {
+            "i": 5,
+            "y": 3483,
+            "score": 100,
+            "noise": 0,
+            "diff": "remake/score/home-phone-06.png"
+          }
+        ],
+        "lowest": 99.98,
+        "average": 100,
+        "height": {
+          "original": 4327,
+          "remake": 4327
+        },
+        "errors": [
+          "undefined"
+        ]
+      }
+    }
+  },
+  "motion": {
+    "frames": [
+      {
+        "i": 0,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 1,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 2,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 3,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 4,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 5,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 6,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 7,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 8,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 9,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 10,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 11,
+        "score": 99.93,
+        "noise": 0
+      },
+      {
+        "i": 12,
+        "score": 99.93,
+        "noise": 0
+      },
+      {
+        "i": 13,
+        "score": 99.93,
+        "noise": 0
+      },
+      {
+        "i": 14,
+        "score": 99.93,
+        "noise": 0
+      },
+      {
+        "i": 15,
+        "score": 99.93,
+        "noise": 0
+      },
+      {
+        "i": 16,
+        "score": 99.93,
+        "noise": 0
+      },
+      {
+        "i": 17,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 18,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 19,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 20,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 21,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 22,
+        "score": 100,
+        "noise": 0
+      },
+      {
+        "i": 23,
+        "score": 100,
+        "noise": 0
+      }
+    ],
+    "lowest": 99.93
+  },
+  "pass": true
+}

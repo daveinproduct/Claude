@@ -1,0 +1,3905 @@
+{
+  "site": "https://www.daveransom.com/",
+  "generatedAt": "2026-11-03T18:01:15.001Z",
+  "howToSwap": "Set a slot's `swap`, then run `remake apply`. Text and attributes: the new words. Images: a path to your file. Videos: a path to an MP4, or to a photo (it becomes a slow-zoom clip). Fonts: a Google Fonts family name (e.g. \"Inter\"). Links: the new URL. Forms: the address that should receive submissions. Colours: any CSS colour. Inline SVG logos: a path to your .svg. Leave `swap` null to keep the original.",
+  "summary": {
+    "total": 142,
+    "swapped": 0,
+    "yours": 0,
+    "groups": {
+      "Copy": {
+        "slots": 11,
+        "swapped": 0,
+        "words": 141
+      },
+      "Headlines": {
+        "slots": 8,
+        "swapped": 0,
+        "words": 157
+      },
+      "Buttons & menus": {
+        "slots": 53,
+        "swapped": 0,
+        "words": 100
+      },
+      "Logos": {
+        "slots": 2,
+        "swapped": 0,
+        "words": 0
+      },
+      "Photos": {
+        "slots": 2,
+        "swapped": 0,
+        "words": 0
+      },
+      "Fonts": {
+        "slots": 5,
+        "swapped": 0,
+        "words": 0
+      },
+      "Colours": {
+        "slots": 10,
+        "swapped": 0,
+        "words": 0
+      },
+      "Links & contact": {
+        "slots": 29,
+        "swapped": 0,
+        "words": 0
+      },
+      "Image descriptions": {
+        "slots": 14,
+        "swapped": 0,
+        "words": 0
+      },
+      "Search & sharing": {
+        "slots": 6,
+        "swapped": 0,
+        "words": 0
+      },
+      "Icons": {
+        "slots": 2,
+        "swapped": 0,
+        "words": 0
+      }
+    }
+  },
+  "slots": [
+    {
+      "id": "t-3b95cf85",
+      "kind": "text",
+      "group": "Copy",
+      "value": "and three feedback rounds per song. If your project has three or more songs and you’re not happy, I’ll redo the work until you are - at no extra charge. If you’re still not happy, I’ll refund your payment for any work I haven’t started.",
+      "section": "div#block-yui_3_17_2_1_1760733181118_7504",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "node"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-abda987f",
+      "kind": "text",
+      "group": "Copy",
+      "value": "This newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab.",
+      "section": "div#block-yui_3_17_2_1_1758996476600_4992",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-1c402c12",
+      "kind": "text",
+      "group": "Copy",
+      "value": "I help singer‑songwriters turn their demos into release‑ready tracks that are warm, clear, and emotionally true.",
+      "section": "div#block-yui_3_17_2_1_1759523462942_3423",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-9ab23127",
+      "kind": "text",
+      "group": "Copy",
+      "value": "Mixing, mastering, and guitar performance services for singer-songwriters",
+      "section": "div#block-c8cbe742b30021be02f0",
+      "tag": "h4",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-e61de398",
+      "kind": "text",
+      "group": "Copy",
+      "value": "Sign up with your email address to receive news and updates.",
+      "section": "header.newsletter-form-header",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-b6c4fe74",
+      "kind": "text",
+      "group": "Copy",
+      "value": "Mixed and mastered at an acclaimed studio in Austin, TX:",
+      "section": "div#block-b20efffe355596000be5-1",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-f0f2c3d4",
+      "kind": "text",
+      "group": "Copy",
+      "value": "I want you to feel confident you made the right choice.",
+      "section": "div#block-yui_3_17_2_1_1760733181118_7504",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "node"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-f57aeffc",
+      "kind": "text",
+      "group": "Copy",
+      "value": "Anita Kruse, Founder & Executive Director of",
+      "section": "section.page-section",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "node"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-91844640",
+      "kind": "text",
+      "group": "Copy",
+      "value": "Tricia Fox, Songwriter & Owner of",
+      "section": "section.page-section",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "node"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-7cbefca3",
+      "kind": "text",
+      "group": "Copy",
+      "value": "Re-mixed and remastered:",
+      "section": "div#block-3722a4f9b6f49b750b0a",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-3b5ddefc",
+      "kind": "text",
+      "group": "Copy",
+      "value": "We respect your privacy.",
+      "section": "div#block-yui_3_17_2_1_1758996476600_4992",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-35e5969d",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "\"Dave Ransom's expertise as a mixing and mastering engineer is exceptional—his deep knowledge makes him both creative and strategic in his approach. His mix comparisons on his website demonstrate the transformative difference quality mixing makes on a project. You won't find a more skilled or dedicated mixing/mastering engineer.\"",
+      "section": "section.page-section",
+      "tag": "h2",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-78d095aa",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "\"Dave Ransom is an incredibly talented musician/sound engineer, and we have been very fortunate to have him share his gifts with Purple Songs Can Fly over the last few years. Dave has beautifully mixed and mastered over 50 BMTL songs and we are so grateful.\"",
+      "section": "section.page-section",
+      "tag": "h2",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-7aa1da6b",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "\"The song that you wrote and produced for us totally blew us away. In many ways, you served as a mirror because we heard our relationship with Remy reflected through your lyrics. And on top of that, you turned it into a beautifully produced song.\"",
+      "section": "section.page-section",
+      "tag": "h2",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-93a5b85e",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "Dave Ransom | Mixing & Mastering for Singer-Songwriters",
+      "section": "page",
+      "tag": "title",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [
+        "their words"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-81f31f1e",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "A difference you can hear",
+      "section": "div#block-b20efffe355596000be5",
+      "tag": "h2",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-20e71416",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "My Commitment to You",
+      "section": "div#block-yui_3_17_2_1_1760733181118_7030",
+      "tag": "h2",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-afad9942",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "reCAPTCHA",
+      "section": "page",
+      "tag": "title",
+      "where": [
+        {
+          "file": "site/_ext/www.google.com/recaptcha/enterprise/anchor/index__392996dc.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/_ext/www.google.com/recaptcha/enterprise/anchor/index__64f65a38.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-006ab0a3",
+      "kind": "text",
+      "group": "Headlines",
+      "value": "Subscribe",
+      "section": "header.newsletter-form-header",
+      "tag": "h2",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-05a8ceb0",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Some Kind of Magic (Remy's Song)",
+      "section": "section.page-section",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-c1c42813",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Get a Free Mix/Master Sample",
+      "section": "div#block-c07851a4addc916d4e16",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-2d1c4da4",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Tricia Fox, Dave Ransom",
+      "section": "div#block-53aefd64a59c50bc50fd",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-e112c687",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "BEFORE: Love Me Anyway",
+      "section": "div#block-53aefd64a59c50bc50fd",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-c09ad9ed",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "www.triciafoxmusic.com",
+      "section": "section.page-section",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-eb9eb43c",
+      "kind": "attr",
+      "group": "Buttons & menus",
+      "attr": "data-title",
+      "value": "BEFORE: Love Me Anyway",
+      "section": "div#block-53aefd64a59c50bc50fd",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-4f30492c",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "AFTER: Love Me Anyway",
+      "section": "div#block-yui_3_17_2_1_1757990397276_12265",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-def76a87",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "You get a free sample",
+      "section": "div#block-yui_3_17_2_1_1760733181118_7504",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-3910c5f8",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Hours: M-F, 9am - 5pm",
+      "section": "div#block-d289b084be392294e5de",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-28af8809",
+      "kind": "attr",
+      "group": "Buttons & menus",
+      "attr": "data-title",
+      "value": "AFTER: Love Me Anyway",
+      "section": "div#block-yui_3_17_2_1_1757990397276_12265",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-c12e769f",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Open Menu Close Menu",
+      "section": "header#header",
+      "tag": "button",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-24793456",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Purple Songs Can Fly",
+      "section": "section.page-section",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-8df0946d",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "BEFORE: These Hands",
+      "section": "div#block-eb40661fa67c9eee90a4",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-153e7756",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "dave@daveransom.com",
+      "section": "div#block-d289b084be392294e5de",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-3ec86bbc",
+      "kind": "attr",
+      "group": "Buttons & menus",
+      "attr": "data-title",
+      "value": "BEFORE: These Hands",
+      "section": "div#block-eb40661fa67c9eee90a4",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-440d4483",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "BEFORE: Adornments",
+      "section": "div#block-89ed00edf63a9932c774",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-de79cf6c",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "AFTER: These Hands",
+      "section": "div#block-4f57b48e1ff754a5f2a4",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-caef1a3f",
+      "kind": "attr",
+      "group": "Buttons & menus",
+      "attr": "data-title",
+      "value": "AFTER: These Hands",
+      "section": "div#block-4f57b48e1ff754a5f2a4",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-be86c4a8",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "AFTER: Adornments",
+      "section": "div#block-87c14990fb2f3a61665f",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-81619183",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Folder: services",
+      "section": "nav.header-menu-nav-list",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-3090706d",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Lindsey Lathrop,",
+      "section": "section.page-section",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-dc57682b",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Newsletter Block",
+      "section": "div#block-yui_3_17_2_1_1758996476600_4992",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-24973186",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Skip to Content",
+      "section": "header#header",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-f9b4bbb8",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Folder: listen",
+      "section": "nav.header-menu-nav-list",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-47feed36",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Folder: watch",
+      "section": "nav.header-menu-nav-list",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-f1f487f3",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Email Address",
+      "section": "div#email-yui_3_17_2_1_1758996944989_11636",
+      "tag": "label",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-5d7150e3",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Folder: read",
+      "section": "nav.header-menu-nav-list",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-880cb8a1",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Testimonials",
+      "section": "div#68e421d8114dfa044e644294",
+      "tag": "p",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-52147bb8",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Tricia Fox",
+      "section": "div#block-eb40661fa67c9eee90a4",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-d4d309ac",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Colin Ryan",
+      "section": "section.page-section",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-fd18b61b",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Thank you!",
+      "section": "div#block-yui_3_17_2_1_1758996476600_4992",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-be5b7165",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "mastering",
+      "section": "div#services",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-1bac42e3",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "portfolio",
+      "section": "div#listen",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-d96a9e35",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "services",
+      "section": "nav.header-nav-list",
+      "tag": "button",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-e27ce99a",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "overview",
+      "section": "div#services",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-63b30055",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Services",
+      "section": "div#block-fde68156c1bbf0e2822b",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-4303b923",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "contact",
+      "section": "nav.header-nav-list",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-6acd2511",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Sign Up",
+      "section": "div#block-yui_3_17_2_1_1758996476600_4992",
+      "tag": "button",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-f4bf083f",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "mixing",
+      "section": "div#services",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-3b3b76a6",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "listen",
+      "section": "nav.header-nav-list",
+      "tag": "button",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-cb2a7a3e",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "BEFORE",
+      "section": "div#block-b20efffe355596000be5-1",
+      "tag": "h4",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-9f9c4fd4",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "music",
+      "section": "div#listen",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-5fb7b228",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "watch",
+      "section": "nav.header-nav-list",
+      "tag": "button",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-cef90b6c",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "video",
+      "section": "div#watch",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-cb29425d",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "shows",
+      "section": "div#watch",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-a5309da9",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "AFTER",
+      "section": "div#block-3722a4f9b6f49b750b0a",
+      "tag": "h4",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-d2c8c28e",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "home",
+      "section": "nav.header-nav-list",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-cedfa3c5",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "read",
+      "section": "nav.header-nav-list",
+      "tag": "button",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-60bcabf1",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "blog",
+      "section": "div#read",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-2d7f6d58",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "FAQs",
+      "section": "div#read",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-c2954bc2",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "Back",
+      "section": "nav.header-menu-nav-list",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-5bcada51",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "bio",
+      "section": "div#read",
+      "tag": "a",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        },
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "t-350ca8af",
+      "kind": "text",
+      "group": "Buttons & menus",
+      "value": "0",
+      "section": "div#floatingCart",
+      "tag": "div",
+      "where": [
+        {
+          "file": "site/index.html",
+          "mode": "inner"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-51dd055a",
+      "kind": "image",
+      "group": "Logos",
+      "value": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__84006cb2.png",
+      "files": [
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__b2858b7f.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__39e93a50.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__60997e04.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__fe4f8812.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__29f6bc85.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__84006cb2.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/c615628f-e74e-4928-8401-c4431979eb70/website_logo_black__9775f5c2.png"
+      ],
+      "width": 1000,
+      "height": 1000,
+      "alt": "",
+      "shown": true,
+      "section": "div#block-yui_3_17_2_1_1758320591719_6302",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their trademark"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-7a7cc497",
+      "kind": "image",
+      "group": "Logos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/logo_48.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/logo_48.png"
+      ],
+      "width": 48,
+      "height": 48,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their trademark"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-6b28ee72",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/5c1fc644-dca7-4640-b039-645b5c5241b4/website_icon__b2858b7f.png",
+      "files": [
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/5c1fc644-dca7-4640-b039-645b5c5241b4/website_icon__b2858b7f.png",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/5c1fc644-dca7-4640-b039-645b5c5241b4/website_icon.png"
+      ],
+      "width": 922,
+      "height": 499,
+      "alt": "Dave Ransom | Mixing &amp; Mastering for Singer-Songwriters",
+      "shown": true,
+      "section": "header#header",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-f69a18be",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/27d6ac03-e700-4ed3-b62f-e3e50367302e/ACphoto-Tricia2563.webp",
+      "files": [
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/27d6ac03-e700-4ed3-b62f-e3e50367302e/ACphoto-Tricia2563__fe4f8812.webp",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/27d6ac03-e700-4ed3-b62f-e3e50367302e/ACphoto-Tricia2563.webp"
+      ],
+      "width": 1000,
+      "height": 667,
+      "alt": "Woman playing an acoustic guitar, smiling and singing, sitting near a window with light curtains.",
+      "shown": false,
+      "section": "section.page-section",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-604c0df2",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img.jpeg",
+      "files": [
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img__fe4f8812.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img__60997e04.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/d11bb76a-7de8-4487-bdf4-3aeb75b69f67/anita_profile_img.jpeg"
+      ],
+      "width": 432,
+      "height": 432,
+      "alt": "A black-and-white photo of a woman with long, straight hair looking slightly to the side.",
+      "shown": false,
+      "section": "section.page-section",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-140f5b61",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg",
+      "files": [
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__b2858b7f.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__84006cb2.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__60997e04.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__fe4f8812.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__39e93a50.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__29f6bc85.jpeg",
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/2b1524e5-6eac-4a21-8b7d-2cdc620805da/IMG_0093__9775f5c2.jpeg"
+      ],
+      "width": 2500,
+      "height": 2000,
+      "alt": "",
+      "shown": true,
+      "section": "section",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-82ebea55",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png",
+      "files": [
+        "/_ext/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png"
+      ],
+      "width": 20,
+      "height": 20,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-de11f09d",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png",
+      "files": [
+        "/_ext/static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png"
+      ],
+      "width": 20,
+      "height": 20,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-68f3bf94",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png"
+      ],
+      "width": 24,
+      "height": 24,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-17e74e85",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png",
+      "files": [
+        "/_ext/static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png",
+        "/_ext/static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png"
+      ],
+      "width": 44,
+      "height": 44,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-891af4bc",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png"
+      ],
+      "width": 16,
+      "height": 16,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-848b673e",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-5892ebb9",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png"
+      ],
+      "width": 16,
+      "height": 16,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-d2264585",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg"
+      ],
+      "width": null,
+      "height": null,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-da22809b",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png"
+      ],
+      "width": 7,
+      "height": 7,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-ca97a20a",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png",
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-498f6ba2",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-info-light.png",
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-0d4a87d4",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-cart-18-dark.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/icons/icon-cart-18-dark.png"
+      ],
+      "width": 18,
+      "height": 18,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-7d5d811b",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg",
+      "files": [
+        "/_ext/static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg"
+      ],
+      "width": 120,
+      "height": 300,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-c1f64b66",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/static1.squarespace.com/universal/images-v6/icons/opentable-icons.png",
+      "files": [
+        "/_ext/static1.squarespace.com/universal/images-v6/icons/opentable-icons.png"
+      ],
+      "width": 120,
+      "height": 300,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-acea416d",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/play-button@2x.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/play-button.png",
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/play-button@2x.png"
+      ],
+      "width": 88,
+      "height": 88,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-cb6543e6",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/getty-16-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/getty-16-light.png"
+      ],
+      "width": 16,
+      "height": 16,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-ecfaedcc",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/getty-32-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/getty-32-light.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-74f566ef",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/cart-16-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/cart-16-light.png"
+      ],
+      "width": 16,
+      "height": 16,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-606f894d",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/cart-32-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/cart-32-light.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-337cf513",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/error-dark.png",
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png"
+      ],
+      "width": 88,
+      "height": 88,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-c7a9fe29",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-light.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-light.png",
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png"
+      ],
+      "width": 9,
+      "height": 11,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-513881d6",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-red.png",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-red.png",
+        "/_ext/assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png"
+      ],
+      "width": 9,
+      "height": 11,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-e10f18e2",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+      "files": [
+        "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+        "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.svg"
+      ],
+      "width": null,
+      "height": null,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-6a046cc5",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/canonical_speed_limit.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/canonical_speed_limit.png"
+      ],
+      "width": 85,
+      "height": 85,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-60500bd9",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/canonical_street_name.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/canonical_street_name.png"
+      ],
+      "width": 102,
+      "height": 100,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-27c5f5a1",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/modac_qr_background.svg",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/modac_qr_background.svg"
+      ],
+      "width": 347,
+      "height": 273,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-eb74931b",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/modac_mobile_light.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/modac_mobile_light.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-4524f2bb",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/modac_mobile_dark.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/modac_mobile_dark.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-05e40ab4",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/modac_camera_dark.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/modac_camera_dark.png"
+      ],
+      "width": 32,
+      "height": 32,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-dcb60287",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/refresh_white_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/refresh_white_2x.png"
+      ],
+      "width": 96,
+      "height": 96,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-b11c7da1",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/canonical_bridge.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/canonical_bridge.png"
+      ],
+      "width": 100,
+      "height": 100,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-1a95e6c8",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/canonical_other.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/canonical_other.png"
+      ],
+      "width": 93,
+      "height": 93,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-df38561d",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/download_white.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/download_white.png"
+      ],
+      "width": 36,
+      "height": 36,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-cad9aec4",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/audio_white_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/audio_white_2x.png"
+      ],
+      "width": 96,
+      "height": 96,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-47349081",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/image_white_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/image_white_2x.png"
+      ],
+      "width": 96,
+      "height": 96,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-9d1ac0e5",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/liveness_light.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/liveness_light.png"
+      ],
+      "width": 144,
+      "height": 144,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-eef4cdae",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/canonical_road.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/canonical_road.png"
+      ],
+      "width": 91,
+      "height": 84,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-b5db8b4d",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/liveness_dark.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/liveness_dark.png"
+      ],
+      "width": 144,
+      "height": 144,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-7e007e5e",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/info_white_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/info_white_2x.png"
+      ],
+      "width": 96,
+      "height": 96,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-a421ad60",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/undo_white_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/undo_white_2x.png"
+      ],
+      "width": 96,
+      "height": 96,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-6cdaa83c",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/canonical_car.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/canonical_car.png"
+      ],
+      "width": 98,
+      "height": 90,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-35893e1b",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/boundingbox2.gif",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/boundingbox2.gif"
+      ],
+      "width": 112,
+      "height": 94,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-4082820d",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/refresh_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/refresh_2x.png"
+      ],
+      "width": 48,
+      "height": 48,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-715964d7",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/stop_sign.jpg",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/stop_sign.jpg"
+      ],
+      "width": 92,
+      "height": 100,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-0bd4c7e7",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/download.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/download.png"
+      ],
+      "width": 36,
+      "height": 36,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-121d7a72",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/audio_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/audio_2x.png"
+      ],
+      "width": 48,
+      "height": 48,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-06c9c07f",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/image_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/image_2x.png"
+      ],
+      "width": 48,
+      "height": 48,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-271e4393",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/qr_light.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/qr_light.png"
+      ],
+      "width": 144,
+      "height": 144,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-cd6a58c2",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/loading.gif",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/loading.gif"
+      ],
+      "width": 36,
+      "height": 36,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-db6b566c",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/info_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/info_2x.png"
+      ],
+      "width": 48,
+      "height": 48,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-f7dc596e",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.gstatic.com/recaptcha/api2/undo_2x.png",
+      "files": [
+        "/_ext/www.gstatic.com/recaptcha/api2/undo_2x.png"
+      ],
+      "width": 96,
+      "height": 96,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-16742544",
+      "kind": "image",
+      "group": "Photos",
+      "value": "/_ext/www.google.com/images/cleardot.gif",
+      "files": [
+        "/_ext/www.google.com/images/cleardot.gif"
+      ],
+      "width": 1,
+      "height": 1,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [
+        "their photo"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "ff-b6c73ffd",
+      "kind": "font",
+      "group": "Fonts",
+      "value": "squarespace-ui-font",
+      "weights": [
+        "400",
+        "normal"
+      ],
+      "files": [
+        "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.eot",
+        "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font__f182e7ce.eot#iefix",
+        "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font",
+        "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.woff",
+        "/_ext/assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf"
+      ],
+      "license": "check: likely a paid license",
+      "where": [],
+      "flags": [
+        "paid font"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "ff-78d3eab1",
+      "kind": "font",
+      "group": "Fonts",
+      "value": "Libre Baskerville",
+      "weights": [
+        "700",
+        "400",
+        "400 italic"
+      ],
+      "files": [
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/15b5c853-9b64-4099-a53b-6183bd715077/latin-ext.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/ab44c71b-f48b-4670-a167-846043cf99a4/latin.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/52a252e3-2603-4562-b0f2-c5a17be2c497/latin.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/142e50f7-0842-4d8c-af4b-8b4f0627b7ae/latin-ext.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/ba548163-dc30-4e5c-b6d2-d50e9bb6674a/latin.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/17590a8f-ffc5-4716-85bd-5f1a6e881a4f/latin-ext.woff2"
+      ],
+      "license": "free (open font license)",
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "ff-0977ccc6",
+      "kind": "font",
+      "group": "Fonts",
+      "value": "social-icon-font",
+      "weights": [
+        "normal"
+      ],
+      "files": [
+        "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot",
+        "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font__d9314511.eot#iefix",
+        "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff",
+        "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf",
+        "/_ext/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg#social-icon-font"
+      ],
+      "license": "check: likely a paid license",
+      "where": [],
+      "flags": [
+        "paid font"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "ff-3d96df7e",
+      "kind": "font",
+      "group": "Fonts",
+      "value": "Almarai",
+      "weights": [
+        "700",
+        "400"
+      ],
+      "files": [
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/45dcdc87-5147-43d7-8726-d20c3ba83d37/latin.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/f7ee3ef0-5282-4e23-aa21-f872b18400e4/arabic.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/59c3b6bc-e76a-4f94-9694-cc069be11197/latin.woff2",
+        "/_ext/file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/52838289-82ec-4834-b8c9-93fa6f5b55c9/arabic.woff2"
+      ],
+      "license": "check: likely a paid license",
+      "where": [],
+      "flags": [
+        "paid font"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "ff-19c8a510",
+      "kind": "font",
+      "group": "Fonts",
+      "value": "Roboto",
+      "weights": [
+        "400",
+        "500",
+        "900"
+      ],
+      "files": [
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+        "/_ext/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2"
+      ],
+      "license": "free (open font license)",
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-7e6529f6",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#ffffff",
+      "uses": 254,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-167b94e2",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#000000",
+      "uses": 103,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-0d82d1e2",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#3e3e3e",
+      "uses": 103,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-b828b304",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#a1a1a1",
+      "uses": 71,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-8f48a4a3",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#e4e4e4",
+      "uses": 58,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-c6877e9c",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#f0523d",
+      "uses": 55,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-eac0748e",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#313131",
+      "uses": 49,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-4edca106",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#f6f6f6",
+      "uses": 39,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-dc756091",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#ebebeb",
+      "uses": 38,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "c-bf1c12e1",
+      "kind": "color",
+      "group": "Colours",
+      "value": "#272727",
+      "uses": 32,
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-eb59e38e",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Other links",
+      "value": "https://music.apple.com/us/artist/dave-ransom/276790944",
+      "label": "",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-b86fb6a3",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Social",
+      "value": "https://youtu.be/-yQ7CUhO0qc?si=k6e6bPpgpysBjHHs",
+      "label": "Some Kind of Magic (Remy's Song)",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-ac39b2d2",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Social",
+      "value": "https://www.youtube.com/@daveransommusic/",
+      "label": "",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-db5436d4",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Social",
+      "value": "https://www.facebook.com/daveransomband",
+      "label": "",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-c45e5145",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Other links",
+      "value": "https://www.purplesongscanfly.org/",
+      "label": "Purple Songs Can Fly",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-bdc5ba26",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Other links",
+      "value": "https://soundcloud.com/daveransom",
+      "label": "",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-3a9eb62b",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Other links",
+      "value": "https://www.triciafoxmusic.com/",
+      "label": "www.triciafoxmusic.com",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-d9c3fd48",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Other links",
+      "value": "https://www.colinryanspeaks.com",
+      "label": "Colin Ryan",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-9e52e7cf",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Social",
+      "value": "http://instagram.com/daveransom",
+      "label": "",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-1f493316",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Other links",
+      "value": "https://www.lindseylathrop.com",
+      "label": "Lindsey Lathrop,",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-84022149",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Email",
+      "value": "mailto:dave@daveransom.com?",
+      "label": "dave@daveransom.com",
+      "section": "div#block-d289b084be392294e5de",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-fb523d2e",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/new-dropdown",
+      "label": "Folder: listen",
+      "section": "nav.header-menu-nav-list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "f-12839175",
+      "kind": "form",
+      "group": "Links & contact",
+      "value": "(no address)",
+      "section": "div#block-yui_3_17_2_1_1758996476600_4992",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [
+        "not wired"
+      ],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-54ca9b74",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/services-1",
+      "label": "Folder: services",
+      "section": "nav.header-menu-nav-list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-66d5c2c4",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/mastering",
+      "label": "mastering",
+      "section": "div#services",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-d3535d2e",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/portfolio",
+      "label": "portfolio",
+      "section": "div#listen",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-a0c2b01d",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/overview",
+      "label": "overview",
+      "section": "div#services",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-5b7e30f2",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/services",
+      "label": "Services",
+      "section": "div#block-fde68156c1bbf0e2822b",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-1fcf056e",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/contact",
+      "label": "contact",
+      "section": "nav.header-nav-list",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-55d9c240",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/mixing",
+      "label": "mixing",
+      "section": "div#services",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-ed51a225",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/music",
+      "label": "music",
+      "section": "div#listen",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-5d98a2bd",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/video",
+      "label": "video",
+      "section": "div#watch",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-64d3ab10",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/shows",
+      "label": "shows",
+      "section": "div#watch",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-53bcc67d",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/watch",
+      "label": "Folder: watch",
+      "section": "nav.header-menu-nav-list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-12e834bc",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/cart",
+      "label": "0",
+      "section": "div#floatingCart",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-be22fca6",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/blog",
+      "label": "blog",
+      "section": "div#read",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-25a0b4a7",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/faqs",
+      "label": "FAQs",
+      "section": "div#read",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-7b1ec036",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/read",
+      "label": "Folder: read",
+      "section": "nav.header-menu-nav-list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "l-bd7fdcd8",
+      "kind": "link",
+      "group": "Links & contact",
+      "category": "Pages not remade",
+      "value": "/bio",
+      "label": "bio",
+      "section": "div#read",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-6e9b49b5",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "alt",
+      "value": "Woman playing an acoustic guitar, smiling and singing, sitting near a window with light curtains.",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-9e99a26c",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "alt",
+      "value": "A black-and-white photo of a woman with long, straight hair looking slightly to the side.",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-0bfd7f38",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "alt",
+      "value": "Dave Ransom | Mixing &amp; Mastering for Singer-Songwriters",
+      "section": "header#header",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-588d2f1d",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "Pause Background",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-29e09193",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "Play Background",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-d6e50a9a",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "placeholder",
+      "value": "Email Address",
+      "section": "div#email-yui_3_17_2_1_1758996944989_11636",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-ea859ab8",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "iTunes Store",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-750ce4eb",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "SoundCloud",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-ab7c0809",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "Instagram",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-13c7269d",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "Carousel",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-2c6c345a",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "Previous",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-8e56c843",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "Facebook",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-fdf1d044",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "YouTube",
+      "section": "nav.sqs-svg-icon--list",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-b9009296",
+      "kind": "attr",
+      "group": "Image descriptions",
+      "attr": "aria-label",
+      "value": "Next",
+      "section": "section.page-section",
+      "where": [
+        {
+          "file": "site/index.html"
+        },
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-e7e45266",
+      "kind": "attr",
+      "group": "Search & sharing",
+      "attr": "meta og:description",
+      "value": "Audio mixing, mastering, and guitar performance services for singer-songwriters in Denver, CO. Get a FREE mixing or mastering sample!",
+      "section": "head",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-0e03d979",
+      "kind": "attr",
+      "group": "Search & sharing",
+      "attr": "meta twitter:description",
+      "value": "Audio mixing, mastering, and guitar performance services for singer-songwriters in Denver, CO. Get a FREE mixing or mastering sample!",
+      "section": "head",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-50239902",
+      "kind": "attr",
+      "group": "Search & sharing",
+      "attr": "meta description",
+      "value": "Audio mixing, mastering, and guitar performance services for singer-songwriters in Denver, CO. Get a FREE mixing or mastering sample!",
+      "section": "head",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-175e32cc",
+      "kind": "attr",
+      "group": "Search & sharing",
+      "attr": "meta og:site_name",
+      "value": "Dave Ransom | Mixing & Mastering for Singer-Songwriters",
+      "section": "head",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-8615ee53",
+      "kind": "attr",
+      "group": "Search & sharing",
+      "attr": "meta og:title",
+      "value": "Dave Ransom | Mixing & Mastering for Singer-Songwriters",
+      "section": "head",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "a-3a916da8",
+      "kind": "attr",
+      "group": "Search & sharing",
+      "attr": "meta twitter:title",
+      "value": "Dave Ransom | Mixing & Mastering for Singer-Songwriters",
+      "section": "head",
+      "where": [
+        {
+          "file": "site/index.html"
+        }
+      ],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-66437512",
+      "kind": "image",
+      "group": "Icons",
+      "value": "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/706327b5-315d-467f-acc6-90857e2da232/favicon__60997e04.ico",
+      "files": [
+        "/_ext/images.squarespace-cdn.com/content/v1/63b2602562a8463bef5b2a98/706327b5-315d-467f-acc6-90857e2da232/favicon__60997e04.ico"
+      ],
+      "width": 100,
+      "height": 93,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    },
+    {
+      "id": "i-25f15183",
+      "kind": "image",
+      "group": "Icons",
+      "value": "/universal/svg/social-accounts.svg",
+      "files": [
+        "/universal/svg/social-accounts.svg",
+        "/universal/svg/social-accounts.svg"
+      ],
+      "width": 64,
+      "height": 64,
+      "alt": "",
+      "shown": false,
+      "section": "",
+      "source": "live",
+      "where": [],
+      "flags": [],
+      "swap": null,
+      "status": "original"
+    }
+  ]
+}

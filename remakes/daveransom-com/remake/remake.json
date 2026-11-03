@@ -1,0 +1,36 @@
+{
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "height": 900,
+      "isMobile": false
+    },
+    "phone": {
+      "width": 390,
+      "height": 844,
+      "isMobile": true
+    }
+  },
+  "thresholds": {
+    "screen": 98,
+    "motion": 95
+  },
+  "seed": 1337,
+  "epoch": 1767268800000,
+  "settleMs": 6000,
+  "scrollSettleMs": 1500,
+  "motionFrames": 24,
+  "politeInterval": 0.5,
+  "url": "https://www.daveransom.com/",
+  "origin": "https://www.daveransom.com",
+  "host": "www.daveransom.com",
+  "name": "daveransom-com",
+  "pages": [
+    "/"
+  ],
+  "maxPages": 1,
+  "createdAt": "2026-11-03T17:53:56.796Z",
+  "captureMode": "live",
+  "archiveTs": null,
+  "capturedAt": "2026-11-03T17:56:15.702Z"
+}
